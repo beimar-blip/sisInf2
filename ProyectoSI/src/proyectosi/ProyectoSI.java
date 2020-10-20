@@ -1,12 +1,4 @@
-/*
- * Tatiana Mayorga 
- */
-package proyectosi;
 
-/**
- *
- * @author TATIANA
- */
 public class ProyectoSI {
 
     /**
